@@ -146,9 +146,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 16. click on debug and simulate using simulation as shown below 
 
-## CIRCUIT DIAGRAM 
-
-
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
